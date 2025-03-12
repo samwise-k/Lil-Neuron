@@ -1,5 +1,5 @@
 # Neuron Visualization Dashboard
-Now available at https://lil-neurongit-v1.streamlit.app/
+Now available at https://lil-neuronv2.streamlit.app/
 This project provides an interactive dashboard to visualize how artificial neurons process inputs. It includes both a simple single neuron visualization and a multi-layer network visualization.
 
 ## Features
